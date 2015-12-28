@@ -1,6 +1,6 @@
 
 
-/* CS 2A Lab 6
+/* CS 2A Lab 8
  * Instructor Solution
  */
 
